@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 -   1-Linkedinhttps: //www.linkedin.com/in/witor-hugo-lomazzi-9309651b8/ ;
 -   2-E-mail: sousawitor@gmail.com ; 
--   3-Phone number: +55 (62) 99672-5709;
+-  
 
 <!---
 izzamol/izzamol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
